@@ -18,7 +18,7 @@ Custom Tokenizer is a Python utility for natural language processing (NLP) that 
 Clone this repository and ensure you have Python 3.6+ installed. 
 
 ```bash
-git clone [https://github.com/your-username/custom-tokenizer.git](https://github.com/NaReddyJashwanthReddy/tokenizerlib)
+git clone https://github.com/NaReddyJashwanthReddy/tokenizerlib
 cd custom-tokenizer
 ```
 
