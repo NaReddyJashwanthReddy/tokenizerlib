@@ -103,7 +103,7 @@ This tokenizer supports a wide range of contractions, including but not limited 
 - `"gonna" → "going to"`
 - `"can't" → "cannot"`
 
-For the complete list, refer to the [Contraction Dictionary](https://github.com/NaReddyJashwanthReddy/tokenizerlib/contraction.py).
+For the complete list, refer to the [Contraction Dictionary](https://github.com/NaReddyJashwanthReddy/tokenizerlib/blob/main/contraction.py).
 
 ---
 
