@@ -19,7 +19,7 @@ Clone this repository and ensure you have Python 3.6+ installed.
 
 ```bash
 git clone https://github.com/NaReddyJashwanthReddy/tokenizerlib
-cd custom-tokenizer
+cd tokenizerlib
 ```
 
 ---
