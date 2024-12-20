@@ -1,5 +1,3 @@
-Here’s a clean and attractively designed `README.md` for your `CustomTokenizer` project:
-
 ---
 
 # **Custom Tokenizer**
